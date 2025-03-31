@@ -83,8 +83,8 @@ def banner():
                              |___/                                                   
 """%(N))                                                    
 ───────────────────────────────────────────────────────
- [\x1b[1;96m+%s] Nama       : Anony mpuse
- [\x1b[1;96m+%s] Github      : https://github.com/Anonymouse
+ [\x1b[1;96m+%s] Nama       : randy kyle
+ [\x1b[1;96m+%s] Github      : https://github.com/randykyle76
 ───────────────────────────────────────────────────────\n'''%(N,N,N,N))
 def kontol():
     os.system("clear")
@@ -97,7 +97,7 @@ def kontol():
         \/       \/     \/     \/     \/                                                                                                    
 {P}[•]{B}----------------------------------------------------{P}[•]
 {B} |
-{P}[•] AUTHOR: Anony mouse""")
+{P}[•] AUTHOR: randy kyle""")
 def licensi():#line:42
   try :#line:43
     os .system ('clear')
@@ -109,7 +109,7 @@ def licensi():#line:42
 """)#line:49
     OOO00O0OOO00OO00O =input (f"{H}[{P}?{H}]{P} ===> Pilih :{K} ")#line:50
     if OOO00O0OOO00OO00O in ['1','01']:#line:51
-      print (f"{H}[{P}!{H}]{P} Anda Akan Diarahkan Ke Whatsapp...");time .sleep (3 );os .system ('xdg-open https://wa.me/6283109115523?text=Bang+Beli+Lisensi+nya+dong.......???????');exit ()#line:52
+      print (f"{H}[{P}!{H}]{P} Anda Akan Diarahkan Ke Whatsapp...");time .sleep (3 );os .system ('xdg-open https://wa.me/6281318304995?text=Bang+Beli+Lisensi+nya+dong.......???????');exit ()#line:52
     elif OOO00O0OOO00OO00O in ['2','02']:#line:53
       O000O000OOO000OOO =input (f"{H}[{P}?{H}]{P} Api Key :{K} ")#line:54
       if len (O000O000OOO000OOO )==0 :#line:55
