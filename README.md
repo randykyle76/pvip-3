@@ -5,7 +5,7 @@ pkg install python
 pkg install git
 pip install request
 pip install bs4
-git clone https://github.com/Anonymouse501/pvip-3
+git clone https://github.com/randykyle76/pvip-3
 cd pvip-3
 git pull
 python pvip-3.py
